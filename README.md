@@ -42,6 +42,7 @@
 |---|---|---|
 | お店のこだわり（松阪牛と飛騨牛） | `articles/our-wagyu/index.html` | `zh/articles/our-wagyu/index.html` |
 | 和牛・ブランド牛・A5の意味 | `articles/wagyu-and-brand-beef/index.html` | `zh/articles/wagyu-and-brand-beef/index.html` |
+| なばなの里・スパーランドのあとの夕食（季節＝イルミネーションの期間を毎年直す） | `articles/dinner-near-nabana-no-sato/index.html` | `zh/articles/dinner-near-nabana-no-sato/index.html` |
 
 - 記事の文章を直すときは、そのファイルの `<!-- ===== 記事の本文（文章を直すときはここ） ===== -->` の下を書き換える
 - トップページの「Articles」の欄に記事のカードが並ぶ（`<!-- ===== 記事（記事を足すときは…） ===== -->` の中）。記事を足したら、カードを1つ増やす（英語・繁体字の両方）
