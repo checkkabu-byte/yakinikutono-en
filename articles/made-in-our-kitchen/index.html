@@ -22,7 +22,8 @@
 .art{max-width:760px;margin:0 auto;padding:40px 20px 72px}
 .art p,.art li{font-size:17px;line-height:1.85;color:#292524}
 .art h2{font-family:'Noto Serif TC',serif;font-size:26px;margin:44px 0 12px}
-.art figure{margin:22px 0}.art figure img{width:100%;height:auto;border-radius:12px;display:block}
+.art figure{margin:22px auto;max-width:560px}.art figure img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:12px;display:block}
+.art figure.hero{max-width:none}.art figure.hero img{aspect-ratio:16/9}
 .art figcaption{font-size:14px;color:#57534e;margin-top:8px}
 .art ul{padding-left:22px}
 @media (max-width:520px){.hd-sub{display:none!important}.hd-book{padding:0 14px!important;font-size:14px!important}.art h2{font-size:22px}}</style>
@@ -49,7 +50,7 @@
 <article class="art">
   <p style="margin:0 0 8px;font-size:13px;letter-spacing:0.08em;color:#9f2b22;font-weight:700">OUR KITCHEN · November 2026</p>
   <h1 style="margin:0 0 20px;font-family:'Noto Serif TC',serif;font-size:clamp(30px,5vw,42px);line-height:1.25">Made in our kitchen: kimchi, sauces, soups and rice</h1>
-  <figure style="margin:0 0 24px"><img src="../../images/homemade-kimchi.webp" alt="A whole head of homemade napa cabbage kimchi"></figure>
+  <figure class="hero" style="margin:0 0 24px"><img src="../../images/homemade-kimchi.webp" alt="A whole head of homemade napa cabbage kimchi"></figure>
   <p>Yakiniku is not only about the meat. At Yakiniku Tono, almost everything served alongside it — the kimchi, the sauces and the soups — is made from scratch in our own kitchen. Here is how.</p>
   <h2>Kimchi that takes several days</h2>
   <p>Our <strong>napa cabbage kimchi</strong> takes several days to make. The cabbage is salted and left for a day, then rinsed. We spread it with our own seasoning paste, made with many ingredients — including fish sauce and tiny salted shrimp for depth — and let it rest for several more days, so the flavor soaks all the way through.</p>
