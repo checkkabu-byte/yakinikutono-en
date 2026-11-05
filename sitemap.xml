@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Googleに渡すページの一覧。記事を足したら、ここにも英語・繁体字の2つを足す（下の形をまねる） -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yakinikutono.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://yakinikutono.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/articles/our-wagyu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/our-wagyu/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/our-wagyu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/our-wagyu/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/our-wagyu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/our-wagyu/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/our-wagyu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/our-wagyu/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/articles/wagyu-and-brand-beef/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/wagyu-and-brand-beef/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/wagyu-and-brand-beef/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/wagyu-and-brand-beef/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/wagyu-and-brand-beef/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/wagyu-and-brand-beef/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/wagyu-and-brand-beef/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/wagyu-and-brand-beef/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/articles/dinner-near-nabana-no-sato/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/dinner-near-nabana-no-sato/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/dinner-near-nabana-no-sato/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/dinner-near-nabana-no-sato/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/dinner-near-nabana-no-sato/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/dinner-near-nabana-no-sato/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/dinner-near-nabana-no-sato/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/dinner-near-nabana-no-sato/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/articles/made-in-our-kitchen/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/made-in-our-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/made-in-our-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/made-in-our-kitchen/"/>
+  </url>
+  <url>
+    <loc>https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/made-in-our-kitchen/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/made-in-our-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://checkkabu-byte.github.io/yakinikutono-en/zh/articles/made-in-our-kitchen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://checkkabu-byte.github.io/yakinikutono-en/articles/made-in-our-kitchen/"/>
+  </url>
+</urlset>
